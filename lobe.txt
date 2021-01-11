@@ -1,1 +1,0 @@
-Now I am going to start using lobe to train models and compare it with what I can make by manually training and testing and compare results.
